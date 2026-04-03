@@ -2,7 +2,7 @@
 Summary:	A light-weight, customizable lightbox plugin for jQuery
 Name:		jquery-%{plugin}
 Version:	1.3.17
-Release:	1
+Release:	2
 License:	MIT
 Group:		Applications/WWW
 Source0:	http://colorpowered.com/colorbox/latest/#/%{name}-%{version}.zip
